@@ -3,6 +3,7 @@
 # Project Root: c:/os/sources/hucos
 # Bochs Installation Directory: C:\applications\bochs\3.0
 # Dependencies: NASM, Bochs 3.0, Windows DD Tool
+# Author: huc0day(GaoJian)
 # ======================================================================
 
 # ------------------------------
