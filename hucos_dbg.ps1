@@ -3,6 +3,7 @@
 # 项目主目录：c:/os/sources/hucos
 # Bochs 安装目录：C:\applications\bochs\3.0
 # 依赖：NASM、Bochs 3.0、Windows DD 工具
+# 作者：huc0day(GaoJian)
 # ======================================================================
 
 # ------------------------------
